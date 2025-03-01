@@ -1,0 +1,21 @@
+git config --global user.name gallojunior
+git config --global user.email gallojunior@gmail.com
+
+Criar o projeto:
+npx create-expo-app@latest StickerSmash
+
+Acessar a pasta do projeto:
+cd StickerSmash
+
+Resetar o template ao básico:
+npm run reset-project
+
+Ao baixar o projeto do GitHub
+npm i
+
+Executar o projeto na Web
+npx expo start --web
+
+Executar o projeto no celular android
+npx expo start --localhost --android
+
