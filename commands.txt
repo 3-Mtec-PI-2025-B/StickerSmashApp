@@ -19,3 +19,4 @@ npx expo start --web
 Executar o projeto no celular android
 npx expo start --localhost --android
 
+npx expo install expo-image
